@@ -2,7 +2,10 @@
 My group's project for Bilkent's CS 319 Object Oriented Programming course.
 
 Due to the erratic semester we experienced in Turkey because of the earthquake, and some work distribution and communication problems, the project couldn't reach its full potential.
-To examine my work throughout the semester, see the Final Report in the reports folder. A concise project description can be found below; for further information, see the reports.
+
+See the Final Report in the reports folder to examine my work throughout the semester.
+
+A concise project description can be found below; for further information, see the reports.
 
 Project Bilport aimed to create an easy and reliable internship management system to handle the internship processes of Engineering Faculty undergraduate students at Bilkent University.
 It was only partially successful in reaching its goal.
